@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.exe
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.deps.json
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.runtimeconfig.json
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.dll
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\bin\Debug\net6.0\MergeSorting.pdb
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.dll
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\refint\MergeSorting.dll
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.pdb
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\MergeSorting.genruntimeconfig.cache
+C:\Users\Dell\source\repos\MergeSorting\MergeSorting\obj\Debug\net6.0\ref\MergeSorting.dll
