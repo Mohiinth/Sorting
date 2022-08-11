@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\bin\Debug\net6.0\QuickSorting.exe
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\bin\Debug\net6.0\QuickSorting.deps.json
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\bin\Debug\net6.0\QuickSorting.runtimeconfig.json
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\bin\Debug\net6.0\QuickSorting.dll
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\bin\Debug\net6.0\QuickSorting.pdb
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.AssemblyInfo.cs
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.dll
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\refint\QuickSorting.dll
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.pdb
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\QuickSorting.genruntimeconfig.cache
+C:\Users\Dell\source\repos\QuickSorting\QuickSorting\obj\Debug\net6.0\ref\QuickSorting.dll
